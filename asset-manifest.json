@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/netview-app/static/js/main.4790d85d.chunk.js",
+    "main.js.map": "/netview-app/static/js/main.4790d85d.chunk.js.map",
+    "runtime-main.js": "/netview-app/static/js/runtime-main.e9fa6565.js",
+    "runtime-main.js.map": "/netview-app/static/js/runtime-main.e9fa6565.js.map",
+    "static/js/2.0abe8597.chunk.js": "/netview-app/static/js/2.0abe8597.chunk.js",
+    "static/js/2.0abe8597.chunk.js.map": "/netview-app/static/js/2.0abe8597.chunk.js.map",
+    "index.html": "/netview-app/index.html",
+    "static/js/2.0abe8597.chunk.js.LICENSE.txt": "/netview-app/static/js/2.0abe8597.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpg": "/netview-app/static/media/no_image.22d2aa4d.jpg",
+    "static/media/tmdb_logo.f15b6632.svg": "/netview-app/static/media/tmdb_logo.f15b6632.svg",
+    "static/media/trending.21658562.svg": "/netview-app/static/media/trending.21658562.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9fa6565.js",
+    "static/js/2.0abe8597.chunk.js",
+    "static/js/main.4790d85d.chunk.js"
+  ]
+}
